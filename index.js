@@ -12,7 +12,7 @@ button.style = 'background: ${backgroud'
 const isAuthorized = true
 button.addEventListener('click',  () => {
     if (isAuthorized) {
-      return alert("esta autorizado") ;
+      return alert("tu papa autoriza") ;
         
     alert("no esta autorizado")
 }
