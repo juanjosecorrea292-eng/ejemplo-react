@@ -1,7 +1,7 @@
 const background = 'red'
 const color = 'white'
 
-const result = 'estos son estilos: ${background} ${color}'
+const result = 'estos son styles: ${background} ${color}'
 
 console.log(result)
 const button = document.createElement('button')
